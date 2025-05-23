@@ -1,7 +1,7 @@
 # Aplikasi Login/Register
 
 ## Pendekatan yang Dipilih
-Pendekatan yang digunakan adalah 
+Pendekatan yang digunakan adalah Menggunakan SQLite
 
 ## Alur Login/Register
 1. Register:
