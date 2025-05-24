@@ -40,9 +40,9 @@ A simple Android application that allows users to register and login using local
    - Tersedia tombol untuk berpindah ke halaman Register
 
 ## Screenshot Tampilan
-(https://github.com/user-attachments/assets/b808ab2b-02d5-42be-8b3c-4146df5a8251)
-(https://github.com/user-attachments/assets/f49ad4f1-5833-4d13-a624-b7ed8976a7f8)
-(https://github.com/user-attachments/assets/b029e570-3274-4e73-83a9-d2e8a2eaadf8)
+(https://github.com/user-attachments/assets/39181977-9e62-40d9-98ec-ef8d0ca24961)
+(https://github.com/user-attachments/assets/c09aacd5-c9f8-471c-9373-4c048f6c8649)
+(https://github.com/user-attachments/assets/1fbf8cb5-d3f9-4c6e-9b98-054d0e52db5d)
 
 ## Hasil Uji Coba Emulator
 
