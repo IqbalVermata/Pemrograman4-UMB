@@ -48,10 +48,6 @@ A simple Android application that allows users to register and login using local
 ![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/password%20kurang.png?raw=true)
 ## ✅Login Berhasil
 ![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20berhasil.png?raw=true)
-## Screenshot Tampilan
-(https://github.com/user-attachments/assets/39181977-9e62-40d9-98ec-ef8d0ca24961)
-(https://github.com/user-attachments/assets/c09aacd5-c9f8-471c-9373-4c048f6c8649)
-(https://github.com/user-attachments/assets/1fbf8cb5-d3f9-4c6e-9b98-054d0e52db5d)
 
 ## Hasil Uji Coba Emulator
 
