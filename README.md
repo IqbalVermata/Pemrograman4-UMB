@@ -39,7 +39,7 @@ A simple Android application that allows users to register and login using local
      - Tampilkan pesan error
    - Tersedia tombol untuk berpindah ke halaman Register
 ## 📱Tampilan Login 
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login.png?raw=true)
+![alt text](https://github.com/user-attachments/assets/39181977-9e62-40d9-98ec-ef8d0ca24961?raw=true)
 ## 📲Tampilan Register
 ![alt text](https://github.com/user-attachments/assets/39181977-9e62-40d9-98ec-ef8d0ca24961?raw=true)
 ## 📵Login Gagal
