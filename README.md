@@ -38,7 +38,16 @@ A simple Android application that allows users to register and login using local
    - Jika gagal:
      - Tampilkan pesan error
    - Tersedia tombol untuk berpindah ke halaman Register
-
+## 📱Tampilan Login 
+![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login.png?raw=true)
+## 📲Tampilan Register
+![alt text](https://github.com/user-attachments/assets/39181977-9e62-40d9-98ec-ef8d0ca24961?raw=true)
+## 📵Login Gagal
+![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20gagal.png?raw=true)
+## ⛔Password kurang dari 6 karakter
+![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/password%20kurang.png?raw=true)
+## ✅Login Berhasil
+![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20berhasil.png?raw=true)
 ## Screenshot Tampilan
 (https://github.com/user-attachments/assets/39181977-9e62-40d9-98ec-ef8d0ca24961)
 (https://github.com/user-attachments/assets/c09aacd5-c9f8-471c-9373-4c048f6c8649)
